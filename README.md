@@ -1,2 +1,2 @@
-# BrandInsta
-BrandTotal Instagram Project
+# InstaXposed
+InstaXposed Instagram Project
